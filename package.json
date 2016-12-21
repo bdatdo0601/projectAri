@@ -1,0 +1,30 @@
+{
+  "name": "projectari",
+  "version": "1.0.0",
+  "description": "Home assistant ai from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdatdo0601/projectAri.git"
+  },
+  "author": "Dat Do",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdatdo0601/projectAri/issues"
+  },
+  "homepage": "https://github.com/bdatdo0601/projectAri#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-record-lpcm16": "^0.1.8",
+    "node-wit": "^4.2.0",
+    "play": "^0.5.0",
+    "play-sound": "^1.1.1",
+    "record-audio": "^1.0.0",
+    "shelljs": "^0.7.5",
+    "snowboy": "^1.1.0",
+    "wav": "^1.0.1"
+  }
+}
