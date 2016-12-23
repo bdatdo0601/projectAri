@@ -17,7 +17,12 @@
   },
   "homepage": "https://github.com/bdatdo0601/projectAri#readme",
   "dependencies": {
+    "@google-cloud/speech": "^0.5.0",
+    "fluent-ffmpeg": "^2.1.0",
     "fs": "0.0.1-security",
+    "google-speech": "0.0.5",
+    "google-speech-api": "^1.2.0",
+    "node-ffprobe": "^1.2.2",
     "node-record-lpcm16": "^0.1.8",
     "node-wit": "^4.2.0",
     "play": "^0.5.0",
